@@ -43,7 +43,9 @@ body {
     background: #2F180C;
     color: khaki;
 }
-p{
+
+/*Usunięcie marginesów dla nagłówków i akapitów*/
+h1, h2, h3, h4, p{
     margin: 0;
     padding: 0;
 }
