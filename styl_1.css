@@ -1,0 +1,49 @@
+
+body {
+    background: #F6E5DC;
+    font-family: Verdana;
+}
+
+#baner {
+    background: #2F180C;
+    text-align: center;
+    color: khaki;
+    height: 60px;
+}
+
+#lewy {
+    width: 60%;
+    float: left;
+}
+
+#prawy {
+    font-size: 150%;
+    padding: 70px;
+}
+
+#dolny {
+    background: #D0B6A8;
+    text-align: center;
+    padding: 30px;
+}
+
+#stopka {
+    background: #2F180C;
+    color: khaki;
+    height: 60px;
+}
+
+.obrazek {
+    height: 340px;
+}
+
+.przycisk {
+    margin: 10px;
+    padding: 5px;
+    background: #2F180C;
+    color: khaki;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
